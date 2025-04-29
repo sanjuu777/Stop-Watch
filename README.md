@@ -1,3 +1,3 @@
 # Stop Watch
 
-## features
+## Features
